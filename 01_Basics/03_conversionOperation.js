@@ -29,3 +29,17 @@ let number = 33
 let stringNumber = String(number)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+// ***************************** Operations *************************
+
+let value = 5
+let negValue = -value
+console.log(negValue);
+
+let num1, num2, num3
+
+num1 = num2 = num3 = 2 + 2
+
+let gameCounter = 100
+gameCounter++
+console.log(gameCounter);
